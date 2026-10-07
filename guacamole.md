@@ -2,7 +2,7 @@
 
 ## Ingrediants
 * avocado
-* lemon
+* lime
 * salt
 * black pepper
 
