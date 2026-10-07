@@ -1,9 +1,9 @@
 # Guacamole
 
 ## Ingrediants
-* avocado
-* lime
-* salt
-* black pepper
+* avocado $80
+* lime $40
+* salt free
+* black pepper free
 
 ### Instructions
